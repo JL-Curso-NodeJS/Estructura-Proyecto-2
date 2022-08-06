@@ -15,6 +15,7 @@ Crear un archivo llamado .env con los siguientes datos:
 ## Para ejecutar el proyecto
     
     npm install
+    npm run db:create
     npm start
 
 ## Postman
