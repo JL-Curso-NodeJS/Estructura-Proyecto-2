@@ -19,7 +19,7 @@ Crear un archivo llamado .env con los siguientes datos:
     npm start
 
 ## Postman
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/21047550-3430575e-9b39-499d-b47c-a218ca66557f?action=collection%2Ffork&collection-url=entityId%3D21047550-3430575e-9b39-499d-b47c-a218ca66557f%26entityType%3Dcollection%26workspaceId%3D1f4f77c5-eb75-4ee8-99d0-fbd51cc092df)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/21047550-3430575e-9b39-499d-b47c-a218ca66557f?action=collection%2Ffork&collection-url=entityId%3D21047550-3430575e-9b39-499d-b47c-a218ca66557f%26entityType%3Dcollection%26workspaceId%3D1f4f77c5-eb75-4ee8-99d0-fbd51cc092df#?env%5BLOCALHOST%20BASE%5D=W3sia2V5IjoiVVJMIiwidmFsdWUiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAiLCJlbmFibGVkIjp0cnVlfV0=)
 
 ---
 
