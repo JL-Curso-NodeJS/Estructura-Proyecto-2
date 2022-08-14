@@ -30,4 +30,4 @@ Crear un archivo llamado .env con los siguientes datos:
 ---
 
 ## Más información
-
+Te dejo el link a un video explicando el funcionamiento de este proyecto: https://youtu.be/0sUa5A80bbg
